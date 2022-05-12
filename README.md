@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Topplehawk
-- 👀 I’m interested in ... linux
-- 🌱 I’m currently learning ... linux
-- 📫 How to reach me ... no idea why you would want to do this
+- 👀 I’m interested in ... linux(blackarch, kali, Pop-OS, and ubuntu), hacking, and pen testing. 
+- 🌱 I’m currently learning ... linux(blackarch, kali, Pop-OS, and ubuntu), pen testing.
+- 📫 How to reach me ... this is not possible. I live in deep space and only let certain people contact me.
 
 <!---
 Topplehawk/Topplehawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
