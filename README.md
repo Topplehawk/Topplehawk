@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Topplehawk
-- 👀 I’m interested in ... linux(blackarch, kali, Pop-OS, and ubuntu), hacking, and pen testing. 
-- 🌱 I’m currently learning ... linux(blackarch, kali, Pop-OS, and ubuntu), pen testing.
+- 👀 I’m interested in ... linux, proxmox
+- 🌱 I’m currently learning ... linux, git, proxmox, vim
 - 📫 How to reach me ... this is not possible. I live in deep space and only let certain people contact me.
 
 <!---
