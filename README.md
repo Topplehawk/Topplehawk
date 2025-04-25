@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Topplehawk
-- 👀 I’m interested in ... linux, proxmox
+- 👀 I’m interested in ... linux, proxmox, bedrock linux, arch
 - 🌱 I’m currently learning ... linux, git, proxmox, vim
 - 📫 How to reach me ... this is not possible. I live in deep space and only let certain people contact me.
 
