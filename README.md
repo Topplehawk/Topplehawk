@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Topplehawk
-- 👀 I’m interested in ... linux, proxmox, bedrock linux, arch, ricing i3wm
-- 🌱 I’m currently learning ... linux, git, proxmox, vim
-- 📫 How to reach me ... https://www.reddit.com/user/Unable_Hat1338/
+- Hi, I’m @Topplehawk
+- I’m interested in ... linux, proxmox, bedrock linux, arch, ricing i3wm
+- How to reach me ... https://www.reddit.com/user/Unable_Hat1338/
 - I dont check reddit very often so it might take a while for me to get back to you if you reach out.
